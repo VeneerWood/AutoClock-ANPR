@@ -67,5 +67,4 @@ python predict.py model="/home/afnan02/Desktop/Automatic_Number_Plate_Detection_
 - Video Tutorial Link  [`YouTube Link`](https://www.youtube.com/watch?v=lkAJBSmIL50&t=5s)
 
 
-[![Watch the Complete Tutorial for the Step by Step Explanation](https://img.youtube.com/vi/lkAJBSmIL50/0.jpg)]([https://www.youtube.com/watch?v=StTqXEQ2l-Y](https://www.youtube.com/watch?v=lkAJBSmIL50))
-
+[![Watch the Complete Tutorial for the Step by Step Explanation](https://img.youtube.com/vi/lkAJBSmIL50/0.jpg)]([https://www.youtube.com/watch?v=StTqXEQ2l-Y](https://www.youtube.com/watch?v=lkAJBSmIL50)
