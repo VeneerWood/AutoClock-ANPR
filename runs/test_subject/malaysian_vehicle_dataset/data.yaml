@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['Plate number - v1 2024-04-03 2-25pm']
+
+roboflow:
+  workspace: alex-en6pu
+  project: plate-recognition-kwrsk
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/alex-en6pu/plate-recognition-kwrsk/dataset/1
